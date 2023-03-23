@@ -15,7 +15,7 @@ namespace MyApplication{
          double d1 = 12E4D;
          Console.WriteLine(f1);
          Console.WriteLine(d1);
-         //Um tipo de dados booleano é declarado com a boolpalavra-chave e só pode receber os valores trueou false
+         //Um tipo de dados booleano é declarado com a boolpalavra-chave e só pode receber os valores true ou false
          bool isCSharpFun = true;
          bool isFishTasty = false;
          Console.WriteLine(isCSharpFun);   // Outputs True
